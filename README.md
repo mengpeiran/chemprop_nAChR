@@ -3,7 +3,6 @@
 By clicking [**here**](/chemprop) to the chemprop subdirectory, detailed instructions on the installation of chemprop can be found. Specfically, we installed via source for this project.
 
 ## Training
-A model similar to that used to predict Abaucin can be found [**here**](models/final_model).
 
 If you wish to train a new model on different data, continue on here, replacing paths where appropriate. 
 
