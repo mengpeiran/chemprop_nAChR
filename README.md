@@ -24,8 +24,3 @@ To perform predictions on this set using models found in the paper:
 ```chemprop_predict --test_path data/prediction_set.csv --checkpoint_dir models/final_model --preds_path data/predictions.csv --features_generator rdkit_2d_normalized --no_features_scaling```
 
 
-
-
-[^1]: [Liu, G., Catacutan, D.B., Rathod, K. et al. Deep learning-guided discovery of an antibiotic targeting Acinetobacter baumannii. Nat Chem Biol (2023). https://doi.org/10.1038/s41589-023-01349-8](https://www.nature.com/articles/s41589-023-01349-8)
-
-*Data files may need additional manual processing such as header removal or binarization to be correctly formatted for the code.
