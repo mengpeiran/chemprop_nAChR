@@ -7,7 +7,7 @@ A model similar to that used to predict Abaucin can be found [**here**](models/f
 
 If you wish to train a new model on different data, continue on here, replacing paths where appropriate. 
 
-If you wish to use the model to predict for antimicrobial activities on other data sets, move to the Prediction subheader. Training data for this data set is made available in the supplementary section of the paper[^1]. 
+If you wish to use the model to predict for antimicrobial activities on other data sets, move to the Prediction subheader. Training data for this data set is made available in the supplementary section of the paper. 
 
 Using the given data sets as an example, to train a Chemprop model with ensembling and RDKit global features, use the following command while in the chemprop conda environment.*
 
